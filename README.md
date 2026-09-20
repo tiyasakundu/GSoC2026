@@ -12,11 +12,13 @@
 
 ## What's the project about?
 
-The **Completion of FOSSology UI Rewrite using Next.js** project focuses on completing and preparing the ongoing modernization of the FOSSology web interface for production use. Building on the previous GSoC work, the project focuses on completing the Next.js rewrite and aligning the frontend with FOSSology REST API v2. It also focuses on implementing the remaining UI pages and incorporating the redesigned interface developed through the [FOSSology UX and UI Redesign](https://github.com/fossology/fossology/discussions/2908#discussioncomment-11912320) project.
+The **Completion of FOSSology UI Rewrite using Next.js** project is a continuation of the work started during **GSoC 2025 project**, [FOSSology UI Rewrite using Next.js](https://github.com/tiyasakundu/GSoC2025). The earlier project established the foundation for migrating the FOSSology web interface from the legacy Twig-based UI to a modern Next.js frontend.
 
-The project also focuses on establishing a consistent and scalable frontend architecture using **Next.js, TypeScript, Tailwind CSS, and shadcn/ui**, with reusable components and a structured design system. Alongside implementing the redesigned pages, the work includes refactoring existing components and API integrations, improving consistency and accessibility, and documenting reusable components through **Storybook**.
+This year's project focused on continuing that rewrite and completing the remaining parts of the FOSSology UI. The work included implementing the remaining pages, aligning the frontend with the **FOSSology REST API v2**, and incorporating the redesigned interface developed through the [FOSSology UX and UI Redesign](https://github.com/devxnshi/GSoC-2025) project.
 
-The overall goal is to provide FOSSology with a **modern, maintainable, and production-ready frontend** that preserves existing functionality while offering a more consistent and intuitive user experience. The project also aims to make the codebase easier to maintain and extend, providing a stronger foundation for future contributors and UI improvements.
+The project also focused on establishing a consistent and scalable frontend architecture using **Next.js, TypeScript, Tailwind CSS, and shadcn/ui**, with reusable components and a structured design system. Alongside implementing the redesigned pages, the work included refactoring existing components and API integrations, improving consistency and accessibility, and documenting reusable components through **Storybook**.
+
+The overall goal was to bring the FOSSology UI closer to a complete, maintainable, and production-ready Next.js frontend while preserving existing functionality and providing a more consistent and intuitive user experience.
   
 # Contributions <img src="files/contributions.png" width="30"/>
 
@@ -169,7 +171,7 @@ Documented the reusable UI components through Storybook to make the component li
 
 ## 5. UI Redesign Implementation and Consistency
 
-Continued implementing the UI based on the redesigned FOSSology interface developed through the [FOSSology UX and UI Redesign](https://github.com/fossology/fossology/discussions/2908#discussioncomment-11912320) project.
+Continued implementing the UI based on the redesigned FOSSology interface developed through the [FOSSology UX and UI Redesign](https://github.com/devxnshi/GSoC-2025) project.
 
 - Applied Tailwind CSS and shadcn/ui components throughout the implemented pages.
 - Maintained consistent spacing, typography, colours, forms, tables, buttons, dialogs, and navigation patterns.
